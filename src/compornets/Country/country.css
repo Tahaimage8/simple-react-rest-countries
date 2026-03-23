@@ -1,7 +1,17 @@
 .country{
-    border: 2px solid salmon;
+    border: 3px solid salmon;
     margin: 20px;
     padding: 20px;
     border-radius: 20px;
+
+}
+.country-visited{
+    border: 3px solid greenyellow;
+    border-radius: 20px;
+    
+}
+
+.country-notVisited{
+        border: 3px solid red;
 
 }
